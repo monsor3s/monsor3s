@@ -1,6 +1,10 @@
 
 ### Olá! Eu sou o Marlon Monsores 👋
 
+* Tenho 28 anos
+
+* Formado em Bacharelado em Sistemas de Informação
+
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlon-monsores-380408b2/)
 
 ![monsor3s GitHub stats](https://github-readme-stats.vercel.app/api?username=monsor3s&show_icons=true&theme=merko)
