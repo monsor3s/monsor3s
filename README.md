@@ -67,4 +67,6 @@
     src="https://github-readme-stats.vercel.app/api?username=monsor3s&show_icons=true&theme=merko" alt="monsor3s"/>
 </p>
 
+[![An image of @monsor3s's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/monsor3s)](https://holopin.io/@monsor3s)
+
 [Monsor3s](https://github.com/monsor3s)
